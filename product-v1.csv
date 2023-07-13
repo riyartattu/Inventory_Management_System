@@ -1,0 +1,46 @@
+Product_id,Product_type,Product_brand,Product_model,Product_MRP,Product_CP
+1,Mobile,Samsung,M11,15999,9000
+2,Laptop,Lenovo,Slim i3,50999,35000
+3,Mobile,Apple,iPhone 11,54999,49000
+4,Laptop,HP,Pavilion i3,66999,44000
+5,Mobile,Samsung,S10,56999,44000
+6,Laptop,HP,Chrombook14,32999,21000
+7,Mobile,Samsung,M42,24999,18000
+8,Laptop,Lenovo,Slim i5,99999,72000
+9,Laptop,Apple,MackBook i5,135999,100000
+10,Mobile,Samsung,M51,28999,21000
+11,Laptop,HP,Pavilion i5,105000,80000
+12,Mobile,Samsung,S20,99000,75000
+13,Laptop,Apple,MackBook i7,199999,149000
+14,Mobile,Apple,iPhone 12,79999,72000
+15,Laptop,Apple,MackBook i3,103999,70000
+16,Mobile,Apple,iPhone 12 Max,119999,108000
+17,Laptop,Lenovo,Slim i7,121999,90000
+18,Mobile,Xiaomi,Mi 11,33999,25000
+19,Laptop,Lenovo,IdeaPad L340,69990,45000
+20,Mobile,Xiaomi,Mi 10,27999,21000
+21,Headphone,Jabara,Evolve 65,9999,5400
+22,Printer,HP,IJ 2300,5999,3800
+23,Headphone,Jabara,Elite 65,15999,9600
+24,Headphone,Phillips,TPH 180,8000,4800
+25,Printer,HP,DJ 4600,6999,5600
+26,Mobile,Xiaomi,Note 9,15999,8000
+27,Headphone,Boat,Rokertz 450,2999,1200
+28,Printer,HP,LJ 1200,18999,14000
+29,Headphone,Boat,Rokertz 520,3500,1600
+30,Mobile,Xiaomi,Note 8,9999,6000
+31,Printer,HP,DJ 5700,9999,7200
+32,Mobile,Samsung,M31,16999,12000
+33,Headphone,Boat,Rokertz 570,4000,1900
+34,Printer,Canon,IT 1010,12999,9000
+35,Mobile,Xiaomi,Note 10 Pro,27999,22000
+36,Headphone,Jabara,Elite 45,11999,7200
+37,Headphone,Phillips,SHB 180,2599,1600
+38,Headphone,Phillips,TAN 221,3999,2200
+39,Headphone,Boat,TWS 621,7999,3500
+40,Headphone,Boat,Airpod 281,5999,2500
+41,Headphone,Jabara,Elite 75 TWS,18999,13000
+42,Printer,Canon,AIO 3000,17000,13000
+43,Printer,Canon,AIO 100,6399,4500
+44,Printer,Brother,DCP 022,8599,6800
+45,Printer,Brother,LP 2052,15999,12500
